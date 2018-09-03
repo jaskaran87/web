@@ -1,0 +1,14 @@
+= \Socket Signaling Channel
+
+NPM, Node, node-static, http, socket.io
+
+## Scoket
+
+With the help of Scoket we have create a demo app for chat messages
+
+
+* Need to run "sudo node server"
+
+* Open it localhost:8181 in 2 browers
+
+* Create Channel 
